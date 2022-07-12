@@ -1,0 +1,41 @@
+html,
+body {
+	background-image: url(../img/elascafe.jpg);
+	background-size: cover;
+	background-position: top center;
+	height: 100%;
+	opacity: 95%;
+}
+
+header {
+	margin-top: 120px;
+	padding-bottom: 5px;
+}
+
+.navbar{
+	background-color:#333;
+	color: rgb(188, 135, 238);
+	border-radius: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.card{
+	padding: 5px;
+}
+
+section {
+	background-color: #333;
+	opacity: 80%;
+	color: #FFF;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+footer {
+	background-color: #333;
+	color: #FFF;
+	padding: 20px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
